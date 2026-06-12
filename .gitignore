@@ -14,3 +14,14 @@ local.properties
 *.aab
 *.jks
 *.keystore
+
+# Temp files
+*.json
+!app/**/*.json
+build_log.txt
+build_err.txt
+err.txt
+temp_snippet.kt
+test_convert.kt
+ui.xml
+comfyui-plugin/
