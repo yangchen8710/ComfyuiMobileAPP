@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Background circle -->
+    <path
+        android:fillColor="#5333ED"
+        android:pathData="M54,54m-40,0a40,40 0,1 1,80 0a40,40 0,1 1,-80 0" />
+    <!-- "C" letter for ComfyUI -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,40 C42,32 50,28 58,32 L54,38 C50,36 46,38 44,42 C40,50 40,58 44,64 C46,68 50,70 54,68 L58,74 C50,78 42,74 38,66 C32,58 32,48 38,40 Z" />
+</vector>
