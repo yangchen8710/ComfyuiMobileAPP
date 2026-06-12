@@ -1,5 +1,7 @@
 # ComfyuiSimpleMobileAPP
 
+English | [????](README_CN.md)
+
 An Android client for [ComfyUI](https://github.com/comfyanonymous/ComfyUI) that supports workflow import, node configuration, Danbooru tag autocomplete, and result preview.
 
 ## Features
